@@ -1,1 +1,1 @@
-A multimedia website for download songs (Bengali, Hindi, English) and movie poster and actors.
+A multimedia website for download songs (Bengali, Hindi, English) and best movie posters.
